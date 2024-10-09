@@ -1,2 +1,1 @@
-some text
-First Commit!!
+some conflicting text
