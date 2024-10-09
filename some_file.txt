@@ -2,3 +2,6 @@ some text
 Second Commit!!
 
 we changed stuff here
+
+some conflicting text
+
